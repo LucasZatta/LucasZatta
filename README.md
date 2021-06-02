@@ -4,7 +4,7 @@
 - I’m currently learning Golang and CI/CD pipelines.
 - Current Goals - Work on more side projects to test out techs I'm interested in
 
-### Connect with me 😎 [<img vertical-align="sub"; alt="Zatta | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Connect with me 😎 [<img align="left" alt="Zatta | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
