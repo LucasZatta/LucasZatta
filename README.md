@@ -25,9 +25,6 @@
 
 <br />
 <br />
-<img align="left" alt="Zatta'a Github Stats" src="https://github-readme-stats.vercel.app/api?username=LucasZatta&show_icons=true&hide_border=true" />
-<br />
-<br />
 
 #### Here, have some cool programming music on your way out:
 
