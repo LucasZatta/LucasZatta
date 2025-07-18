@@ -2,7 +2,7 @@
 
 ### Backend Developer.
 
-- 25 years old
+- 26 years old
 - Started programming in 2017
 - Graduating in Computer Engineer at CEFET-Mg
 - Server-side focused!
